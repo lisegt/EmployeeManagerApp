@@ -13,3 +13,11 @@
     display: flex;
     justify-content: end;
 }
+
+.nav-link{
+    cursor: pointer;
+}
+
+.form-group{
+    margin-top: 5%;
+}
